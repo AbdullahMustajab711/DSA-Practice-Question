@@ -1,4 +1,4 @@
-public class swap{
+public class swapping{
     public static void main(String[]args){
         int[] a = {12,34,54,65,34};
         int[] b = {23,90,23,55,45};
